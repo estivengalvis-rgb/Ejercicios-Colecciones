@@ -1,0 +1,5 @@
+num=(10, 20, 30, 40)
+suma=sum(num)
+prom=suma/len(num)
+print("Suma:",suma)
+print("Promedio:",prom)
